@@ -55,9 +55,9 @@ This walkthrough bridges theory and practice to confidently use scanning tools i
  
 ## 🛠️ Tech Used
 
--Advanced IP Scanner
--Nmap
--Zenmap
+- Advanced IP Scanner
+- Nmap
+- Zenmap
 
 
 ---
