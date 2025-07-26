@@ -27,6 +27,14 @@ In this lab, I created a structured **HTML guide** that explains how ports and p
 👉 [Ports, Protocols, and Network Scanners](https://mark-thompson01.github.io/MTPortfolio/Skills/Ports,%20Protocols,%20&%20Network%20Scanners/)
 
 
+
+---
+
+
+📘 **Purpose**  
+This walkthrough bridges theory and practice to confidently use scanning tools in authorized environments, building a foundation for troubleshooting, system administration and management. 
+
+
 ---
 
 ## 🔍 What You’ll Learn
