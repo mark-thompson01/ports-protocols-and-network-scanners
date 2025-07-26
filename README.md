@@ -19,6 +19,14 @@ In this lab, I created a structured **HTML guide** that explains how ports and p
 - Enumerate open ports and services
 - Interpret scan results for network insights
 
+
+---
+
+
+🖥️ **Live Project Webpage:**  
+👉 [Ports, Protocols, and Network Scanners](https://mark-thompson01.github.io/MTPortfolio/Skills/Ports,%20Protocols,%20&%20Network%20Scanners/)
+
+
 ---
 
 ## 🔍 What You’ll Learn
