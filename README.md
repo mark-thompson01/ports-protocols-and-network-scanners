@@ -32,7 +32,16 @@ In this lab, I created a structured **HTML guide** that explains how ports and p
   - **Advanced IP Scanner** – quick network discovery
   - **Nmap** – detailed scanning and enumeration
   - **Zenmap** – Nmap’s graphical front-end
+
+
+---
  
+## 🛠️ Tech Used
+
+-Advanced IP Scanner
+-Nmap
+-Zenmap
+
 
 ---
 
@@ -45,6 +54,6 @@ Visit my full GitHub Pages portfolio to explore additional projects:
 
 ---
 
-## 📂 Repository Structure
+
 
 
