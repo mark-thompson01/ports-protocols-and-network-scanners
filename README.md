@@ -3,6 +3,7 @@
 # 🌐 Ports, Protocols, and Network Scanners 
 
 This repository contains my **Ports, Protocols, and Network Scanners** lab, which demonstrates foundational knowledge of network communication, services, and scanning techniques.  
+
 It blends theory with hands-on tools (Advanced IP Scanner, Nmap, Zenmap) to discover devices, open ports, and active services on a network.
 
 
