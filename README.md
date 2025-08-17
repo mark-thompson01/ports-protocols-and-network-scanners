@@ -12,7 +12,8 @@ It blends theory with hands-on tools (Advanced IP Scanner, Nmap, Zenmap) to disc
 
 ## 📖 Overview
 
-Networking is the backbone of IT.  
+Networking is the backbone of IT:
+
 Understanding **TCP/IP, ports, protocols, and network scanning** is essential for troubleshooting, system administration, and security assessments.
 
 In this lab, I created a structured **HTML guide** that explains how ports and protocols work and demonstrates how to:
