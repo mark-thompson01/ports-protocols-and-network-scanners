@@ -1,6 +1,4 @@
-# ports-protocols-and-network-scanners
-
-# 🌐 Ports, Protocols, and Network Scanners 
+# 🌐 Ports, Protocols, & Network Scanners 
 
 This repository contains my **Ports, Protocols, and Network Scanners** lab, which demonstrates foundational knowledge of network communication, services, and scanning techniques.  
 
