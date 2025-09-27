@@ -12,7 +12,7 @@ It blends theory with hands-on tools (Advanced IP Scanner, Nmap, Zenmap) to disc
 
 Networking is the backbone of IT:
 
-Understanding **TCP/IP, ports, protocols, and network scanning** is essential for troubleshooting, system administration, and security assessments.
+Understanding **TCP/IP, ports, protocols, & network scanning** is essential for troubleshooting, system administration, and security assessments.
 
 In this tutorial, I created a structured guide that explains how ports and protocols work and demonstrates how to:
 - Identify active devices on a network
