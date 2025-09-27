@@ -24,7 +24,7 @@ In this tutorial, I created a structured guide that explains how ports and proto
 
 
 🖥️ **Live Project Webpage:**  
-👉 [Ports, Protocols, and Network Scanners](https://mark-thompson01.github.io/MTPortfolio/Skills/Ports,%20Protocols,%20&%20Network%20Scanners/)
+👉 [Ports, Protocols, & Network Scanners](https://mark-thompson01.github.io/MTPortfolio/Skills/Ports,%20Protocols,%20&%20Network%20Scanners/)
 
 
 
