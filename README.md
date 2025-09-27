@@ -14,7 +14,7 @@ Networking is the backbone of IT:
 
 Understanding **TCP/IP, ports, protocols, and network scanning** is essential for troubleshooting, system administration, and security assessments.
 
-In this lab, I created a structured **HTML guide** that explains how ports and protocols work and demonstrates how to:
+In this tutorial, I created a structured guide that explains how ports and protocols work and demonstrates how to:
 - Identify active devices on a network
 - Enumerate open ports and services
 - Interpret scan results for network insights
